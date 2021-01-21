@@ -1,0 +1,23 @@
+.c_prev {
+    left: 85% !important;
+    bottom: 5% !important;
+}
+.c_next {
+    right: 2% !important;
+    bottom: 5% !important;
+}
+.c_prev, .c_next {
+    top: 85%;
+    width: 5%;
+}
+.c_ind {
+    right: 80%;
+    bottom: 50%;
+    left: auto;
+    display: block;
+}
+.c_ind li {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
